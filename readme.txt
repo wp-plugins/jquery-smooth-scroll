@@ -3,9 +3,9 @@ Contributors: BlogSynthesis
 Tags: Smooth Scroll, smooth scroll anchor, scroll to top, scroll, back to top, jquery, top of page
 Author: BlogSynthesis
 Donate link: http://www.blogsynthesis.com/
-Requires at least: 3.0.0
-Tested up to: 3.5
-Stable tag: 1.2.3
+Requires at least: 3.1
+Tested up to: 3.7.1
+Stable tag: 1.2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,19 +15,24 @@ Smooth scrolling and smooth "back to top" by activate and forget.
 
 This plugin makes your anchor text to smooth scroll adds a smooth scroll to top feature/link in the lower-right corner of long pages. Appears after a set scrolling point and hides after scrolling near the top. This plugin is based on cudazi's plugin "Scroll to Top", and you may use this plugin if you need "Scroll to top" feature.
 
-Features include:
-
+= Features include: =
 * Smooth Scrolling for all anchor texts.
 * A back to top button on right hand side.
 * No unnecessary menu item in WordPress Dashboard.
 * Easy customization with some css/js code edit.
 * All CSS and JS files are compressed to score high in Google Page Speed score.
 
-Visit [BlogSynthesis Plugin Page](http://www.blogsynthesis.com/wordpress-jquery-smooth-scroll-plugin/) for more information. We will post how to add "jQuery Smooth Slider" to your blog without installing plugin.
+Visit [BlogSynthesis Plugin Page](http://www.blogsynthesis.com/wordpress-jquery-smooth-scroll-plugin/) for more information. I will post how to add "jQuery Smooth Slider" to your blog without installing a plugin.
 
-http://www.youtube.com/watch?v=2gsdGOPfqF0
+The plugin might not be compatible with a jQuery slider plugin or on safari browsers as many reported on the forums. Please [let me know](http://www.blogsynthesis.com/contact/) about the plugin you are using. For any support ask here: [www.wpavenue.com/help/](http://j.mp/wpavenue).
 
-There is a major javascript change in the version 1.2.0. This version should work on your site even if WordPress Toolbar is enabled. Earlier there waere some issues.
+However, I have checked the plugin is working fine on Firefox, Chrome, IE and Safari for Windows.
+
+http://www.youtube.com/watch?v=2gsdGOPfqF0?t=6s
+
+There is a major javascript change in the version 1.2.0. This version should work on your site even if WordPress Toolbar is enabled.
+
+There is no need to update this time, if you don't want.
 
 == Installation ==
 
@@ -38,7 +43,10 @@ There is a major javascript change in the version 1.2.0. This version should wor
 == Frequently Asked Questions ==
 
 = Why I am not able to find any menu link in my WordPress Dashboard? =
-Because there is no such link or menu item. If you need any customization feel free to ask at [WordPress.org forums](http://wordpress.org/support/plugin/jquery-smooth-scroll)
+Because there is no such link or menu item. If you need any customization feel free to ask at [www.wpavenue.com/help/](http://j.mp/wpavenue)
+
+= I am looking for PSD file. =
+You may [download the PSD file from here](http://www.blogsynthesis.com/wordpress-jquery-smooth-scroll-plugin/).
 
 = Can I use a custom icon? =
 
@@ -64,7 +72,13 @@ Note: This plugin is based on "Cudazi scroll to top" and "easy smooth scroll lin
 
 == Changelog ==
 
-= 1.2.0 =
+= 1.2.4 =
+* Compatibility check for WordPress 3.7.1
+* Asking for feedback and listing incompatibility.
+* Ask for support here: [WPAvenue community](http://www.wpavenue.com)
+* Minor improvement.
+
+= 1.2.3 =
 * Fixed Incompatibility with Hello Bar Plugin.
 * Added Easy Smooth Scroll links script.
 
