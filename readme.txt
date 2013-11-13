@@ -28,7 +28,7 @@ The plugin might not be compatible with a jQuery slider plugin or on safari brow
 
 However, I have checked the plugin is working fine on Firefox, Chrome, IE and Safari for Windows.
 
-http://www.youtube.com/watch?v=2gsdGOPfqF0?t=6s
+http://www.youtube.com/watch?v=2gsdGOPfqF0
 
 There is a major javascript change in the version 1.2.0. This version should work on your site even if WordPress Toolbar is enabled.
 
