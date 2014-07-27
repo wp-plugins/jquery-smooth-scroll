@@ -4,8 +4,8 @@ Tags: Smooth Scroll, smooth scroll anchor, scroll to top, scroll, back to top, j
 Author: BlogSynthesis
 Donate link: http://www.blogsynthesis.com/
 Requires at least: 3.1
-Tested up to: 3.9.1
-Stable tag: 1.3.1
+Tested up to: 4.0
+Stable tag: 1.3.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,7 +69,10 @@ Note: This plugin is based on "Cudazi scroll to top".
 2. Example usage on dark background
 
 == Changelog ==
-
+= 1.3.2 =
+* Bugfix
+* Compatibility checked with WP 4.0
+  
 = 1.3.1 =
 * Fixed compatibility issue with OptimizePress Plugin. 
   (There was a prablem with Live Editor) 
